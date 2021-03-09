@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Scott Woolgar
+tagline: Guitar player, Worker
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+When he's not speaking in the third person, Scott is an award-winning software designer (and soon-to-be fulltime guitar slinger), based in sunny Indianapolis. Working as principal designer at Monomedia.
