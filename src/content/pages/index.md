@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Scott Woolgar
 tagline: Guitar player, Worker
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/scott_playing.png
 cta:
   ctaText: Know more
   ctaLink: /about
